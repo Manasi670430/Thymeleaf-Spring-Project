@@ -4,4 +4,4 @@ Render to your browser
 Changes are reflected realtime
 Time Saver
 
-Technologies : HTML,JS,CSS,jQuery, Thymeleaf, Spring
+Technologies : HTML,JS,CSS,BootStrap, jQuery, Thymeleaf, Spring Spicific features
